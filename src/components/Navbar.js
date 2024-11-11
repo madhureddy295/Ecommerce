@@ -6,14 +6,13 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="nav-container">
         <div className="logo">
-          <h1>Flone.</h1>
+          <h1>WyseCom</h1>
         </div>
         
         <ul className="nav-links">
           <li><a href="/" className="active">Home</a></li>
-          <li><a href="/Men">Men</a></li>
-          <li><a href="/Women">Women</a></li>
-          <li><a href="/Kids">Kids</a></li>
+          <li><a href="/men-watches">Men Watches</a></li>
+          <li><a href="/women-watches">Women Watches</a></li>
           <li><a href="/contact-us">Contact Us</a></li>
         </ul>
 
